@@ -1,0 +1,264 @@
+dgamma:
+	sse:190900287724.8076
+	params:dgamma(a=0.56, loc=0.10, scale=0.03)
+dweibull:
+	sse:190939061023.63177
+	params:dweibull(c=0.69, loc=0.10, scale=0.01)
+johnsonsu:
+	sse:190948487761.54922
+	params:johnsonsu(a=-1.15, b=0.61, loc=0.09, scale=0.00)
+nct:
+	sse:190966382301.4158
+	params:nct(df=0.96, nc=1.66, loc=0.09, scale=0.00)
+cauchy:
+	sse:191009794609.1685
+	params:cauchy(loc=0.10, scale=0.01)
+t:
+	sse:191010650702.4379
+	params:t(df=0.89, loc=0.10, scale=0.01)
+foldcauchy:
+	sse:191012250533.25375
+	params:foldcauchy(c=3.17, loc=0.08, scale=0.01)
+gennorm:
+	sse:191016764649.68866
+	params:gennorm(beta=0.43, loc=0.10, scale=0.00)
+loglaplace:
+	sse:191025986124.01797
+	params:loglaplace(c=1.88, loc=0.08, scale=0.02)
+mielke:
+	sse:191048123562.21957
+	params:mielke(k=8.29, s=2.54, loc=0.08, scale=0.01)
+alpha:
+	sse:191051873463.831
+	params:alpha(a=2.68, loc=0.07, scale=0.10)
+exponnorm:
+	sse:191052419904.67743
+	params:exponnorm(K=5.61, loc=0.09, scale=0.00)
+burr:
+	sse:191053389800.56024
+	params:burr(c=2.69, d=5.78, loc=0.07, scale=0.01)
+invweibull:
+	sse:191057910118.39355
+	params:invweibull(c=3.05, loc=0.07, scale=0.03)
+genextreme:
+	sse:191057921460.2553
+	params:genextreme(c=-0.33, loc=0.10, scale=0.01)
+fisk:
+	sse:191064629334.18762
+	params:fisk(c=2.57, loc=0.08, scale=0.02)
+invgamma:
+	sse:191067358465.50757
+	params:invgamma(a=3.79, loc=0.07, scale=0.10)
+f:
+	sse:191067360279.16556
+	params:f(dfn=4470.29, dfd=7.58, loc=0.07, scale=0.03)
+powerlognorm:
+	sse:191076337535.46103
+	params:powerlognorm(c=0.21, s=0.33, loc=0.08, scale=0.01)
+lognorm:
+	sse:191082265089.79706
+	params:lognorm(s=0.65, loc=0.08, scale=0.02)
+johnsonsb:
+	sse:191082591997.0361
+	params:johnsonsb(a=9.21, b=1.53, loc=0.08, scale=10.11)
+laplace:
+	sse:191084404981.02347
+	params:laplace(loc=0.10, scale=0.01)
+invgauss:
+	sse:191085966582.00183
+	params:invgauss(mu=0.45, loc=0.08, scale=0.07)
+fatiguelife:
+	sse:191090564288.20303
+	params:fatiguelife(c=0.65, loc=0.08, scale=0.03)
+recipinvgauss:
+	sse:191093948895.00098
+	params:recipinvgauss(mu=0.48, loc=0.08, scale=0.01)
+ncf:
+	sse:191100247638.67404
+	params:ncf(dfn=4.24, dfd=24.95, nc=3.71, loc=0.08, scale=0.01)
+gamma:
+	sse:191112459871.8277
+	params:gamma(a=1.99, loc=0.08, scale=0.01)
+pearson3:
+	sse:191112460680.70392
+	params:pearson3(skew=1.42, loc=0.11, scale=0.02)
+beta:
+	sse:191113442139.86063
+	params:beta(a=1.93, b=204182.03, loc=0.08, scale=3018.90)
+frechet_l:
+	sse:191113984045.36438
+	params:frechet_l(c=304899123.22, loc=4027382.35, scale=4027382.25)
+weibull_max:
+	sse:191113984045.36438
+	params:weibull_max(c=304899123.22, loc=4027382.35, scale=4027382.25)
+wald:
+	sse:191114496024.58514
+	params:wald(loc=0.08, scale=0.03)
+genlogistic:
+	sse:191116256737.41794
+	params:genlogistic(c=1323.36, loc=0.00, scale=0.01)
+gumbel_r:
+	sse:191116417685.99332
+	params:gumbel_r(loc=0.10, scale=0.01)
+betaprime:
+	sse:191126851668.5252
+	params:betaprime(a=2.66, b=2.54, loc=0.08, scale=0.02)
+gilbrat:
+	sse:191129425425.41602
+	params:gilbrat(loc=0.08, scale=0.02)
+exponweib:
+	sse:191132040165.07364
+	params:exponweib(a=0.92, c=1.50, loc=0.08, scale=0.03)
+kstwobign:
+	sse:191132545527.66016
+	params:kstwobign(loc=0.05, scale=0.07)
+hypsecant:
+	sse:191139472150.34552
+	params:hypsecant(loc=0.10, scale=0.01)
+triang:
+	sse:191141737123.5788
+	params:triang(c=0.14, loc=0.08, scale=0.10)
+chi:
+	sse:191147981987.90872
+	params:chi(df=1.15, loc=0.08, scale=0.03)
+nakagami:
+	sse:191147982683.59116
+	params:nakagami(nu=0.58, loc=0.08, scale=0.04)
+genhalflogistic:
+	sse:191150783817.65836
+	params:genhalflogistic(c=0.00, loc=0.08, scale=0.02)
+halflogistic:
+	sse:191150785286.73386
+	params:halflogistic(loc=0.08, scale=0.02)
+reciprocal:
+	sse:191151470397.04123
+	params:reciprocal(a=0.99, b=1.51, loc=0.00, scale=0.08)
+truncnorm:
+	sse:191153288303.3324
+	params:truncnorm(a=0.98, b=1.51, loc=0.00, scale=0.08)
+foldnorm:
+	sse:191155627564.7754
+	params:foldnorm(c=0.04, loc=0.08, scale=0.04)
+halfnorm:
+	sse:191155723924.5505
+	params:halfnorm(loc=0.08, scale=0.04)
+logistic:
+	sse:191157353098.2748
+	params:logistic(loc=0.11, scale=0.01)
+halfgennorm:
+	sse:191157433495.62805
+	params:halfgennorm(beta=1.45, loc=0.08, scale=0.04)
+rayleigh:
+	sse:191159217391.8688
+	params:rayleigh(loc=0.08, scale=0.03)
+rice:
+	sse:191159221221.56085
+	params:rice(b=0.00, loc=0.08, scale=0.03)
+genexpon:
+	sse:191160341321.00275
+	params:genexpon(a=1.35, b=0.73, c=1.45, loc=0.08, scale=0.05)
+gompertz:
+	sse:191162779054.68478
+	params:gompertz(c=2.95, loc=0.08, scale=0.11)
+maxwell:
+	sse:191165685460.3194
+	params:maxwell(loc=0.06, scale=0.03)
+exponpow:
+	sse:191166647912.72073
+	params:exponpow(b=0.93, loc=0.08, scale=0.05)
+halfcauchy:
+	sse:191173122458.82465
+	params:halfcauchy(loc=0.08, scale=0.02)
+pareto:
+	sse:191178451005.39035
+	params:pareto(b=17554334.38, loc=-496370.28, scale=496370.36)
+expon:
+	sse:191178608075.0792
+	params:expon(loc=0.08, scale=0.03)
+truncexpon:
+	sse:191184215461.68585
+	params:truncexpon(b=0.95, loc=0.08, scale=0.09)
+norm:
+	sse:191185084387.39343
+	params:norm(loc=0.11, scale=0.02)
+loggamma:
+	sse:191186541184.0755
+	params:loggamma(c=1054.34, loc=-5.13, scale=0.75)
+gausshyper:
+	sse:191189117839.17383
+	params:gausshyper(a=0.85, b=1.09, c=0.91, z=1.05, loc=0.08, scale=0.09)
+levy:
+	sse:191189900345.85312
+	params:levy(loc=0.08, scale=0.02)
+bradford:
+	sse:191191765576.73
+	params:bradford(c=1.02, loc=0.08, scale=0.09)
+arcsine:
+	sse:191192623954.60773
+	params:arcsine(loc=0.08, scale=0.09)
+powerlaw:
+	sse:191201924361.52573
+	params:powerlaw(a=0.70, loc=0.08, scale=0.09)
+cosine:
+	sse:191208960176.7986
+	params:cosine(loc=0.12, scale=0.02)
+uniform:
+	sse:191219572345.88547
+	params:uniform(loc=0.08, scale=0.09)
+ksone:
+	sse:191219572345.88553
+	params:ksone(n=1.04, loc=0.08, scale=0.09)
+tukeylambda:
+	sse:191220428377.59503
+	params:tukeylambda(lam=0.66, loc=0.12, scale=0.03)
+genpareto:
+	sse:191226274907.3892
+	params:genpareto(c=-1.11, loc=0.08, scale=0.11)
+gumbel_l:
+	sse:191228212928.42438
+	params:gumbel_l(loc=0.12, scale=0.03)
+lomax:
+	sse:191229852903.41687
+	params:lomax(c=4673080055.64, loc=0.08, scale=552762877.93)
+levy_l:
+	sse:191300728310.7372
+	params:levy_l(loc=0.18, scale=0.04)
+anglit:
+	sse:191344376136.09082
+	params:anglit(loc=1.31, scale=0.00)
+vonmises_line:
+	sse:191344376136.09082
+	params:vonmises_line(kappa=1.31, loc=3.88, scale=0.00)
+frechet_r:
+	sse:191850576866.85065
+	params:frechet_r(c=0.33, loc=0.08, scale=1.23)
+weibull_min:
+	sse:191850576866.85065
+	params:weibull_min(c=0.33, loc=0.08, scale=1.23)
+gengamma:
+	sse:194916532677.42548
+	params:gengamma(a=0.31, c=0.94, loc=0.08, scale=1.08)
+erlang:
+	sse:197825242594.50943
+	params:erlang(a=0.26, loc=0.08, scale=1.31)
+ncx2:
+	sse:355635200821.90674
+	params:ncx2(df=0.14, nc=1.11, loc=0.08, scale=0.01)
+powernorm:
+	sse:nan
+	params:powernorm(c=0.00, loc=0.08, scale=0.00)
+rdist:
+	sse:191344376136.09082
+	params:rdist(c=1.31, loc=1.29, scale=0.00)
+semicircular:
+	sse:191344376136.09082
+	params:semicircular(loc=1.64, scale=0.00)
+chi2:
+	sse:199754567628.3915
+	params:chi2(df=0.48, loc=0.08, scale=1.20)
+vonmises:
+	sse:7.063499875163099e+66
+	params:vonmises(kappa=1.79, loc=0.09, scale=0.00)
+wrapcauchy:
+	sse:nan
+	params:wrapcauchy(c=1.00, loc=0.00, scale=1.00)
