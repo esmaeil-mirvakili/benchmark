@@ -1,0 +1,13 @@
+rbd image 'image1':
+	size 40 GiB in 10240 objects
+	order 22 (4 MiB objects)
+	snapshot_count: 0
+	id: 1021e4f831e0
+	block_name_prefix: rbd_data.1021e4f831e0
+	format: 2
+	features: layering, exclusive-lock, object-map, fast-diff, deep-flatten
+	op_features: 
+	flags: 
+	create_timestamp: Mon Jun 22 08:04:29 2020
+	access_timestamp: Mon Jun 22 08:04:29 2020
+	modify_timestamp: Mon Jun 22 08:39:07 2020
