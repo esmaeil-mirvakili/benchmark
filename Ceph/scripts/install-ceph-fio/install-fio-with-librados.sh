@@ -5,9 +5,9 @@ sudo apt-get install python3-routes
 
 # install ceph
 cd ~
-git clone https://github.com/yzhan298/ceph.git
+git clone git@github.com:esmaeil-mirvakili/ceph.git
 cd ceph	
-git checkout research_rs_mg
+git checkout dev-CoDel
 export CEPH_HOME="$(pwd)"
 ./install-deps.sh
 sudo apt update
