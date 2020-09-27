@@ -33,8 +33,8 @@ cd "$CEPH_HOME"/build
 LD_LIBRARY_PATH="$CEPH_HOME"/build/lib:$LD_LIBRARY_PATH "$FIO_HOME"/fio "$FIO_HOME"/examples/rados.fio
 
 # set git
-git config --global user.name "yzhan298"
-git config --global user.email "yzhan298@ucsc.edu"
+git config --global user.name "esmaeil-mirvakili"
+git config --global user.email "smirvaki@ucsc.edu"
 
 # install useful packages
 sudo apt install cscope
